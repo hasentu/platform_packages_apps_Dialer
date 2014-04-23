@@ -1,44 +1,44 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
-$$$$$$$$$$$$$$$
-$$$$$$ $$ $$$$
-$$$ $ $$$
-$$$$$$$ $$$ $$$
-$$$$ $$$$ $$ $$$
-$$$ $$ $ $$$
-FFFF $$$$ $$ $$$ $$
-UUUUUU $$$ $$$$$$ $$$$$$$$$ $$
-$$$ $$ $$$ $$
-$$ $$$$$$$$$ $$ $$ $$
-$$ $$ $$$ $$$$$$$$$ $$$$$$ $$
-$ $$ $$$ $$ $$$ $$
-$$$ $$$ $$ $$ $$$
-$$$$ $$$$$$$ $$ $$$
-$$$$$$$$$$$ $$$ $$$$$ $$ $$$$
-$$$ $$$$$$$$$ $$$ $$$$$ $$ $$$$$
-$$$$ $$$$$$$$$$$$$$$ $$$$$$$$$$$$
-$$$$ $$$ $$$$$$$$$$$
-$$ $$$ $$$
-$$ $$$ $$$
-$$$$$$$$$$$$$$$$$$ $$$
-$$$$$$$$ $$$$$$$$$$$$$ $$
-$$$$ $$$ $$
-$$$ $$ $$$
-$$ $$$
-$$$$$$$$$$$$$$$$$
-$$$$$$$$$$$$$$$
-$$$ $$$
-$$$ $$$
-$$$ $$$
-$$$ $$$
-$$$ $$$
-$$$ $$$
-$$$ $$$
-$$$$$ $$$$
-$$$$$$ $$$
-$$$$
+                         $$$$$$$$$$$$$$$
+                      $$$$$$        $$  $$$$
+                     $$$             $     $$$
+                   $$$$$$$          $$$      $$$
+                  $$$$ $$$$        $$          $$$
+                 $$$      $$       $            $$$
+     FFFF       $$$$     $$                $$$    $$
+    UUUUUU     $$$  $$$$$$              $$$$$$$$$  $$
+               $$$                     $$     $$$  $$
+               $$    $$$$$$$$$         $$      $$  $$
+                $$ $$  $$$ $$$$$$$$$     $$$$$$    $$
+                 $ $$      $$$  $$  $$$           $$
+  $$$             $$$              $$  $$        $$$
+   $$$$             $$$$$$$            $$      $$$
+ $$$$$$$$$$$         $$$  $$$$$       $$     $$$$
+    $$$  $$$$$$$$$   $$$     $$$$$   $$  $$$$$
+  $$$$        $$$$$$$$$$$$$$$    $$$$$$$$$$$$
+ $$$$               $$$     $$$$$$$$$$$
+      $$           $$$            $$$
+        $$        $$$            $$$
+        $$$$$$$$$$$$$$$$$$       $$$
+     $$$$$$$$     $$$$$$$$$$$$$  $$
+        $$$$      $$$            $$
+       $$$        $$            $$$
+                  $$            $$$
+                  $$$$$$$$$$$$$$$$$
+                   $$$$$$$$$$$$$$$
+                     $$$       $$$
+                    $$$         $$$
+                   $$$           $$$
+                  $$$             $$$
+                 $$$               $$$
+                $$$                 $$$
+               $$$                   $$$
+            $$$$$                    $$$$
+           $$$$$$                    $$$
+                                   $$$$
 -->
-<resourcesxmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
 
     <string name="call_log_stats_title">數據</string>
     <string name="callStatsDetailTitle">通訊數據詳情</string>
@@ -52,9 +52,9 @@ $$$$
     <string name="call_stats_nav_outgoing">去電</string>
     <string name="call_stats_nav_missed">未接聽</string>
     <string name="call_stats_incoming">來電: <xliff:g id="percent">%d</xliff:g>%%</string>
-    <string name="call_stats_outgoing">去電：<xliff:g id="percent">%d</xliff:g>%%</string>
-    <string name="call_stats_missed">未接</string>
-    <string name="call_stats_missed_percent">未接: <xliff:g id="percent">%d</xliff:g>%%</string>
+    <string name="call_stats_outgoing">去電: <xliff:g id="percent">%d</xliff:g>%%</string>
+    <string name="call_stats_missed">未接聽</string>
+    <string name="call_stats_missed_percent">未接聽: <xliff:g id="percent">%d</xliff:g>%%</string>
     <string name="call_stats_header_total">全部: <xliff:g id="call_count">%s</xliff:g>, <xliff:g id="duration">%s</xliff:g></string>
     <string name="call_stats_header_total_callsonly">全部: <xliff:g id="call_count">%s</xliff:g></string>
     <string name="call_stats_filter_from">起始日期</string>
