@@ -42,12 +42,12 @@
 
     <!-- Call stats -->
     <!-- 通话数据 -->
-    <string name="call_log_stats_title">資料</string>
-    <string name="callStatsDetailTitle">通訊資料詳情</string>
+    <string name="call_log_stats_title">數據</string>
+    <string name="callStatsDetailTitle">通訊數據詳情</string>
 
-    <string name="call_stats">通訊資料</string>
+    <string name="call_stats">通訊數據</string>
     <string name="call_stats_refresh">重新整理</string>
-    <string name="activity_title_call_stats">通訊資料</string>
+    <string name="activity_title_call_stats">通訊數據</string>
 
     <string name="call_stats_nav_all">所有通訊</string>
     <string name="call_stats_nav_incoming">來電</string>
